@@ -1,0 +1,9 @@
+# Files to be ignored in git commit
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# macOS
+.DS_Store

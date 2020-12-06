@@ -1,0 +1,35 @@
+{
+  "name": "card-play",
+  "version": "1.0.1",
+  "description": "Card Play Game, Developed with HTML, CSS, and JavaScript ES 6",
+  "main": "server.js",
+  "scripts": {
+    "serve": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gunaygultekin/card-play-game.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "es6",
+    "ECMAScript6",
+    "nodejs",
+    "npm",
+    "card play"
+  ],
+  "author": "Günay Gültekin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunaygultekin/card-play-game/issues"
+  },
+  "homepage": "https://github.com/gunaygultekin/card-play-game#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "open": "^7.3.0",
+    "serve-static": "^1.14.1"
+  }
+}

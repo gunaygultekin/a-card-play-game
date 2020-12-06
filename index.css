@@ -1,0 +1,31 @@
+#cards {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.card {
+	padding: 20px;
+}
+
+.card.block {
+	pointer-events: none;
+}
+
+.curtain {
+	height: 250px;
+	width: 200px;
+	background-color: #FF9800;
+	position: absolute;
+}
+
+.curtain.show {
+	opacity: 1;
+}
+
+.curtain.hide {
+	opacity: 0;
+}
+
+.hideElement {
+	visibility: hidden;
+}
