@@ -1,6 +1,6 @@
 # About
 
-Card Play Game is a web application. You should find pairs of matching cards in a at least number of steps.
+Card Play Game is a web application. You should find pairs of matching cards in at least number of steps.
 
 Implemented by HTML, JavaScript and CSS.
 The svg files of deck of cards are obtained from [Wikipedia](https://en.wikipedia.org/wiki/Standard_52-card_deck)
